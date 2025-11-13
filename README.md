@@ -1,7 +1,7 @@
 # Hi, I'm Giulio De Sabbata 👋
 
 ## About Me
-PhD Data Scientist specializing in Machine Learning and Data Mining
+PhD Data Scientist, specialized in time series analysis and statistical modeling.
 
 ## 🔬 Research & Publications
 - **Real-Time Forecasting from Wearable-Monitored Heart Rate Data Through Autoregressive Models** - 
