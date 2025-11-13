@@ -21,6 +21,5 @@ studies** - 31st Symposium on Advanced Database Systems | https://ceur-ws.org/Vo
 **Tools:** Jupyter, Git, [others]
 
 ## 📫 Contact
-- LinkedIn: [your profile]
-- Email: [professional email]
-- ORCID/Google Scholar: [if applicable]
+- LinkedIn: www.linkedin.com/in/giuliodesabbata
+- Email: desabbatagiulio@gmail.com
