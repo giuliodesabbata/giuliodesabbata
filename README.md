@@ -13,8 +13,11 @@ studies** - 31st Symposium on Advanced Database Systems | https://ceur-ws.org/Vo
 
 ## 💻 Technical Skills
 **Languages:** Python, R, SQL
+
 **Python Libraries:** scikit-learn, pandas, numpy, statsmodels
+
 **Visualization:** matplotlib, seaborn
+
 **Tools:** Jupyter, Git, [others]
 
 ## 📫 Contact
